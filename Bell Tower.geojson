@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bell Tower",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 20, "notes": "The history of the bell tower is interesting to me" }, "geometry": { "type": "Point", "coordinates": [ -79.04926691965936, 35.908586229543765 ] } }
+]
+}

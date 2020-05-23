@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ackland Art Museum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 18, "notes": "The new art pieces were interesting to see each semester" }, "geometry": { "type": "Point", "coordinates": [ -79.055029940230412, 35.912565774926577 ] } }
+]
+}
