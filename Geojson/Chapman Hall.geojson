@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Chapman Hall",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "name": "Chapman" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.052910848331678, 35.910106399551083 ], [ -79.052693819916271, 35.910191233200258 ], [ -79.052392478303545, 35.91031041667059 ], [ -79.052207197450116, 35.909993981954621 ], [ -79.052740140129643, 35.909791005738789 ], [ -79.052910848331678, 35.910106399551083 ] ] ] ] } }
+]
+}
