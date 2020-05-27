@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Morehead Observatory",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 101, "notes": "The telescope in the observatory is interesting, I got to see it in person" }, "geometry": { "type": "Point", "coordinates": [ -79.0502148529891, 35.914017991041739 ] } }
-]
-}
