@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 18, "notes": "The new art pieces were interesting to see each semester", "layer": "Ackland Art Museum", "path": "C:\/Users\/stainj\/Desktop\/Summer 2020\/GEOG 370\/Quizes\/Quiz 2\/Quiz pt.2\/shapefiles\/Ackland Art Museum.shp" }, "geometry": { "type": "Point", "coordinates": [ -79.055029940230412, 35.912565774926577 ] } },
+{ "type": "Feature", "properties": { "id": 20, "notes": "The history of the bell tower is interesting to me", "layer": "Bell Tower", "path": "C:\/Users\/stainj\/Desktop\/Summer 2020\/GEOG 370\/Quizes\/Quiz 2\/Quiz pt.2\/shapefiles\/Bell Tower.shp" }, "geometry": { "type": "Point", "coordinates": [ -79.04926691965936, 35.908586229543765 ] } },
+{ "type": "Feature", "properties": { "id": 217, "notes": "The greenhouse on top of the Genome Science building houses plant research", "layer": "Greenhouse", "path": "C:\/Users\/stainj\/Desktop\/Summer 2020\/GEOG 370\/Quizes\/Quiz 2\/Quiz pt.2\/shapefiles\/Greenhouse.shp" }, "geometry": { "type": "Point", "coordinates": [ -79.050798330825572, 35.907584835484741 ] } },
+{ "type": "Feature", "properties": { "id": 101, "notes": "The telescope in the observatory is interesting, I got to see it in person", "layer": "Morehead Observatory", "path": "C:\/Users\/stainj\/Desktop\/Summer 2020\/GEOG 370\/Quizes\/Quiz 2\/Quiz pt.2\/shapefiles\/Morehead Observatory.shp" }, "geometry": { "type": "Point", "coordinates": [ -79.0502148529891, 35.914017991041739 ] } },
+{ "type": "Feature", "properties": { "id": 2018, "notes": "The legend a drink from the Old Well on FDOC you will get a 4.0 that semester", "layer": "Old Well", "path": "C:\/Users\/stainj\/Desktop\/Summer 2020\/GEOG 370\/Quizes\/Quiz 2\/Quiz pt.2\/shapefiles\/Old Well.shp" }, "geometry": { "type": "Point", "coordinates": [ -79.051235205291931, 35.912072921389324 ] } }
+]
+}
